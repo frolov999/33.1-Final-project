@@ -15,13 +15,16 @@
 ## Выполнение проекта:
 
 1. Протестированы требования;
+
+Ссылка на документ: https://docs.google.com/spreadsheets/d/1gE53gcYgsWyJeKK5YluAUB3cZnHWcG9LOG7rHQOQYI0/edit?usp=sharing
+   
 2. Разработаны  тест-кейсы (более 15);
 
-Ссылка на документ: https://docs.google.com/spreadsheets/d/1Ai6uvl8sw429p6ikJHIownpwJ2hBrzHFEu1uh7XGy10/edit#gid=1484041689
+Ссылка на документ: https://docs.google.com/spreadsheets/d/1HIaCLZP6bdlwvECe8mcy8t7pSe_U9-C9kGQZvHC1wbA/edit?usp=sharing
    
 3. Оформлено описание обнаруженных дефектов. 
 
-Ссылка на документ: https://docs.google.com/spreadsheets/d/1Ai6uvl8sw429p6ikJHIownpwJ2hBrzHFEu1uh7XGy10/edit#gid=1484041689
+Ссылка на документ: https://docs.google.com/spreadsheets/d/1gE53gcYgsWyJeKK5YluAUB3cZnHWcG9LOG7rHQOQYI0/edit?usp=sharing
 
 4. Проект выполнен с использованием: PageObject, Selenium и PyTest.
 
