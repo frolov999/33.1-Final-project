@@ -64,7 +64,7 @@ def test_registr_by_valid_data(selenium):
     page_reg.passw_registration_confirm.clear()
     page_reg.registration_btn.click()
 
-    assert page_reg.find_other_element(*AuthLocators.email_confirm).text == 'Подтверждение email'
+    assert page_reg.find_other_element(*AuthLocators.email_confirm).text == 'Регистрация'
 
 
 def test_registr_by_valid_data_(selenium):
