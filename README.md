@@ -16,7 +16,7 @@
 
 1. Протестированы требования;
 
-Ссылка на документ: https://docs.google.com/spreadsheets/d/1gE53gcYgsWyJeKK5YluAUB3cZnHWcG9LOG7rHQOQYI0/edit?usp=sharing
+Ссылка на документ: https://docs.google.com/spreadsheets/d/1Upg0JQX2lQcMhfJw0jVUOcUxQq2kMN8Wfw-RV__y3KM/edit?usp=sharing
    
 2. Разработаны  тест-кейсы (более 15);
 
